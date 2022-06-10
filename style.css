@@ -1,0 +1,255 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+
+
+body {
+    margin: 0;
+    line-height: inherit;
+
+
+
+
+}
+
+.continer {
+    padding: 0 15px;
+    margin: 0 auto;
+    max-width: 1024px;
+}
+
+.header-part {
+    width: 1024px;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+}
+
+.input {
+    height: 55px;
+    width: 800px;
+}
+
+.primary {
+    width: 100px;
+    background-color: #ffbe1f;
+    border-color: white;
+    margin-right: 40px;
+}
+
+
+.Barma {
+    margin-top: 100px;
+
+}
+
+.Smart-Phons {
+    margin-top: -210px;
+    margin-left: 25px;
+}
+
+.Televetion {
+    margin-top: -25px;
+    margin-left: 220px;
+}
+
+.machine-Kala {
+    margin-top: -35px;
+    margin-left: 350px;
+}
+
+.Air-condation-p {
+    margin-top: -30px;
+    margin-left: 530px;
+}
+
+.headphone {
+    margin-top: -30px;
+    margin-left: 700px;
+}
+
+.Referigiretor {
+    margin-top: -30px;
+    margin-left: 880px;
+}
+
+.loptpo {
+    margin-top: 180px;
+    margin-left: 30px;
+}
+
+.construction {
+    margin-top: -30px;
+    margin-left: 150px;
+}
+
+.secend {
+    width: 50px;
+    margin-left: -50px;
+    background-color: #ffbe1f;
+    border-color: white;
+}
+
+.frist-line {
+    display: flex;
+    justify-content: space-around;
+}
+
+.dushanbe {
+    margin-left: -5px;
+}
+
+.header {
+    width: 2000px;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+
+.images {}
+
+.secend-part {
+
+    display: flex;
+    justify-content: space-around;
+    display: grid;
+    grid-template-columns: repeat(5, 100px);
+}
+
+.secend-line {
+    display: flex;
+    justify-content: space-around;
+
+
+
+}
+
+.six {
+    margin-top: 150px;
+}
+
+.seven {
+    margin-top: 150px;
+}
+
+.eight {
+    margin-top: 150px;
+}
+
+.nine {
+    margin-top: 150px;
+}
+
+.ten {
+    margin-top: 150px;
+}
+
+.frist-price {
+    color: gray;
+}
+
+.frist-phone {
+    margin-top: -350px;
+    margin-left: 20px;
+}
+
+.secend-phone {
+    margin-top: -90px;
+    margin-left: 245px;
+}
+
+.third-phone {
+    margin-top: -90px;
+    margin-left: 440px;
+}
+
+.fourth-phone {
+    margin-top: -90px;
+    margin-left: 620px;
+}
+
+.fifth-phone {
+    margin-top: -90px;
+    margin-left: 850px;
+}
+
+.sixth-phone {
+    margin-top: 300px;
+    margin-left: 20px;
+}
+
+.seventh-phone {
+    margin-top: -90px;
+    margin-left: 245px;
+}
+
+.eighth-phone {
+    margin-top: -90px;
+    margin-left: 450px;
+}
+
+.nineth-phone {
+    margin-top: -90px;
+    margin-left: 620px;
+}
+
+.tenth-phone {
+    margin-top: -90px;
+    margin-left: 820px;
+}
+
+.mmm {
+    width: 1000px;
+    margin-top: 100px;
+}
+
+a {
+    color: black;
+}
+
+footer {
+    background-color: black;
+}
+
+.help {
+    color: aliceblue;
+}
+
+
+.phone-number,
+.TVs,
+.smart-phone,
+.catalog, .Air-conditioners, .Washing-machines, .We-are,.none {
+    color: aliceblue;
+}
+
+.frist-khat {
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.secend-khat {
+    margin-left: 210px;
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.thrith-khat {
+    margin-top: -150px;
+    margin-left: 590px;
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.fourth-khat {
+    margin-top: -200px;
+    margin-left: 800px;
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;
+}
